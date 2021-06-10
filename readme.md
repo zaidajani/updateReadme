@@ -2,10 +2,14 @@
 
 Just to update contrib chart day-by-day.
 
-# Day 1 update
+## Day 1 update
 
 Today, It was very nice and rainy day which I love, therefore Monsoon is my favourite season. 
 
-# Day 2 update
+## Day 2 update
+
+Today, It was very nice and rainy day which I love, therefore Monsoon is my favourite season. 
+
+## Day 3 update
 
 Today, It was very nice and rainy day which I love, therefore Monsoon is my favourite season. 
