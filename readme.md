@@ -23,3 +23,5 @@ Today, It was very nice and sunny day which I dont like as much, as Monsoon is m
 
 ## Day 6 update
 Today, It was again not very nice day as the day was sunny which I dont like as much, as Monsoon is my favourite season.
+
+## Weather updates: http://zaidajani.github.io/weather-app
