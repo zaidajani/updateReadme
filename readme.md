@@ -27,11 +27,11 @@ Today, It was again not very nice day as the day was sunny which I dont like as 
 # Day 7 update
 Today, It was very nice and rainy day which I love, therefore Monsoon is my favourite season. 
 
-# Day 8 update
+## Day 8 update
 Today, It was very nice and rainy day which I love, therefore Monsoon is my favourite season. 
 
 
-# Day 8 update
+## Day 9 update
 Today, It was very nice and cloudy day which I love, therefore Monsoon is my favourite season. 
 
 ## Weather updates: http://zaidajani.github.io/weather-app
