@@ -38,8 +38,12 @@ Today, It was very nice and cloudy day which I love, therefore Monsoon is my fav
 
 Rainy day.
 
-## Day 10 update
+## Day 11 update
 
 Rains finnally started coming.
+
+## Day 12 update
+
+Rains finnally started coming. Went outside, and was an enjoyable day.
 
 # Weather updates: http://zaidajani.github.io/weather-app
