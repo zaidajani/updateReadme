@@ -46,4 +46,8 @@ Rains finnally started coming.
 
 Rains finnally started coming. Went outside, and was an enjoyable day.
 
+## Day 13 update
+
+Rains finnally started coming. Went outside, and was an enjoyable day.
+
 # Weather updates: http://zaidajani.github.io/weather-app
