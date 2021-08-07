@@ -54,4 +54,8 @@ Rains finnally started coming. Went outside, and was an enjoyable day.
 
 Augast started! Fathers birthday! times going so fast :(
 
+## Day 15 update
+
+8 days went past augast! Rains stopped :( times going so fast :( But I keep learning new things :)
+
 # Weather updates: http://zaidajani.github.io/weather-app
