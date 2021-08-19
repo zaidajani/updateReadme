@@ -58,4 +58,4 @@ Augast started! Fathers birthday! times going so fast :(
 
 8 days went past augast! Rains stopped :( times going so fast :( But I keep learning new things :)
 
-# Weather Updates: http://zaidajani.github.io/weather-app
+## Weather Updates: http://zaidajani.github.io/weather-app
