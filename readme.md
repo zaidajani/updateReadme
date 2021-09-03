@@ -62,4 +62,8 @@ Augast started! Fathers birthday! times going so fast :(
 
 some update
 
+## Day 17 update
+
+Exams coming near, not school ones 😆
+
 ## Weather Updates: http://zaidajani.github.io/weather-app
