@@ -24,7 +24,7 @@ Today, It was very nice and sunny day which I dont like as much, as Monsoon is m
 ## Day 6 update
 Today, It was again not very nice day as the day was sunny which I dont like as much, as Monsoon is my favourite season.
 
-# Day 7 update
+## Day 7 update
 Today, It was very nice and rainy day which I love, therefore Monsoon is my favourite season. 
 
 ## Day 8 update
