@@ -66,4 +66,4 @@ some update
 
 Exams coming near, not school ones 😆
 
-## Weather Updates: http://zaidajani.github.io/weather-app
+## Weather Updates : http://zaidajani.github.io/weather-app
