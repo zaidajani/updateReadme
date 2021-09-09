@@ -66,4 +66,8 @@ some update
 
 Exams coming near, not school ones 😆
 
+## Day 18 update
+
+Due to covid could not give exams😢
+
 ## Weather Updates : http://zaidajani.github.io/weather-app
