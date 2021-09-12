@@ -70,4 +70,8 @@ Exams coming near, not school ones 😆
 
 Due to covid could not give exams😢
 
+## Day 19 update
+
+Happy 😀
+
 ## Weather Updates : http://zaidajani.github.io/weather-app
