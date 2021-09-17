@@ -74,4 +74,8 @@ Due to covid could not give exams😢
 
 Happy 😀
 
+## Day 20 update
+
+woke up at 6
+
 ## Weather Updates : http://zaidajani.github.io/weather-app
