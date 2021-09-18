@@ -78,4 +78,9 @@ Happy 😀
 
 woke up at 6
 
+
+## Day 21 update
+
+woke up at 6 and slept. Our saturday is spoiled as in the new school, there are classes on saturday.
+
 ## Weather Updates : http://zaidajani.github.io/weather-app
