@@ -83,4 +83,8 @@ woke up at 6
 
 woke up at 6 and slept. Our saturday is spoiled as in the new school, there are classes on saturday.
 
+## Day 22 update
+
+woke up at 6 and slept. Its monday.
+
 ## Weather Updates : http://zaidajani.github.io/weather-app
