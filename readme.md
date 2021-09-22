@@ -76,8 +76,7 @@ Happy 😀
 
 ## Day 20 update
 
-woke up at 6
-
+woke up at 6.
 
 ## Day 21 update
 
