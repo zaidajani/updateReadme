@@ -90,4 +90,8 @@ woke up at 6 and slept. Its monday.
 
 Its monday.
 
+## Day 24 update
+
+Its tuesday.
+
 ## Weather Updates : http://zaidajani.github.io/weather-app
