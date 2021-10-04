@@ -98,4 +98,8 @@ Its tuesday.
 
 Its saturday.
 
+## Day 26 update
+
+Its Monday.
+
 ## Weather Updates : http://zaidajani.github.io/weather-app
