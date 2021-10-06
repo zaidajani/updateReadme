@@ -102,4 +102,8 @@ Its saturday.
 
 Its Monday.
 
+## Day 27 update
+
+Its Wednesday.
+
 ## Weather Updates : http://zaidajani.github.io/weather-app
