@@ -106,4 +106,8 @@ Its Monday.
 
 Its Wednesday.
 
+## Day 28 update
+
+Commiting a new commit after many days :)
+
 ## Weather Updates : http://zaidajani.github.io/weather-app
