@@ -120,4 +120,91 @@ Commiting a new commit after many days :)
 
 Just to maintain the streak.
 
+
+
+## Day 30 update
+
+Makin' of the video.
+
+## Day 31 update
+
+Done something
+
+## Day 32 update
+
+Done something different
+
+## Day 33 update
+
+In december of 2021 :)
+
+## Day 34 update
+
+Back in april :)
+
+## Day 35 update
+
+Back in april :)
+
+## Day 36 update
+
+Back in april :)
+
+## Day 37 update
+
+Back in april :)
+
+## Day 38 update
+
+Back in april end :)
+
+## Day 39 update
+
+May 5
+
+## Day 40 update
+
+May 6
+
+## Day 41 update
+
+May 7
+
+## Day 42 update
+
+May 8
+
+## Day 43 update
+
+May 9
+
+## Day 44 update
+
+May 10
+
+## Day 45 update
+
+May 11
+
+## Day 46 update
+
+May 12
+
+## Day 47 update
+
+May 13
+## Day 48 update
+
+May 14
+
+## Day 49 update
+
+May 15
+
+## Day 50 update
+
+May 16
+
+## Thanks for reading
+
 ## Weather Updates : http://zaidajani.github.io/weather-app
