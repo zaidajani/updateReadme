@@ -205,6 +205,8 @@ May 15
 
 May 16
 
-## Thanks for reading
+## Day 51 update
 
-## Weather Updates : http://zaidajani.github.io/weather-app
+May 17
+
+## Thanks for reading
