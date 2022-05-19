@@ -209,4 +209,8 @@ May 16
 
 May 17
 
+## Day 52 update
+
+May 19
+
 ## Thanks for reading
