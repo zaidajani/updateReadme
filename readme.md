@@ -243,6 +243,122 @@ May 26
 
 ## Day 60 update
 
+May 26 part 2
+
+## Day 61 update
+
+May 26 part 3
+
+## Day 62 update
+
+May 27
+
+## Day 63 update
+
+May 28
+
+## Day 63 update
+
 May 29
+
+## Day 64 update
+
+May 29 part 2
+
+## Day 65 update
+
+May 30
+
+## Day 66 update
+
+May 31
+
+## Day 67 update
+
+June 1
+
+## Day 68 update
+
+June 2
+
+## Day 69 update
+
+June 4
+
+## Day 70 update
+
+June 5
+
+## Day 71 update
+
+June 6
+
+## Day 72 update
+
+June 7
+
+## Day 73 update
+
+June 8
+
+## Day 74 update
+
+June 9
+
+## Day 75 update
+
+June 10
+
+## Day 76 update
+
+June 11
+
+## Day 77 update
+
+June 12
+
+## Day 78 update
+
+June 13
+
+## Day 79 update
+
+June 16
+
+## Day 80 update
+
+June 17
+
+## Day 81 update
+
+June 19
+
+## Day 82 update
+
+June 21 (the longest day of the year)
+
+## Day 83 update
+
+June 22
+
+## Day 84 update
+
+June 26
+
+## Day 84 update
+
+June 26
+
+## Day 85 update
+
+June 28
+
+## Day 86 update
+
+July 1
+
+## Day 87 update
+
+July 2
 
 ## Thanks for reading
